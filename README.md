@@ -17,3 +17,14 @@ ls
 
 rm -r dosyaadi
 
+# Yeni Dosya Ekleme
+
+touch dosyaadi.uzantisi ile bu islem yapilabilir.
+
+# Ust dizine gecmek
+
+cd .. ile bu islemi yapabiliriz.
+
+
+
+
