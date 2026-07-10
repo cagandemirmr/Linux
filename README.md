@@ -13,3 +13,7 @@ makedir dosyaadi
 
 ls
 
+# Dir Silme
+
+rm -r dosyaadi
+
