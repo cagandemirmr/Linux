@@ -25,6 +25,9 @@ touch dosyaadi.uzantisi ile bu islem yapilabilir.
 
 cd .. ile bu islemi yapabiliriz.
 
+# Dosyayi silme
 
+rm =v dosyaadi
 
+Bilgilendirme linki = https://www.softcover.io/read/fc6c09de/unix_commands/basics#cid9
 
